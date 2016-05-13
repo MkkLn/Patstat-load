@@ -1,0 +1,20 @@
+USE patstat2010april;
+
+DELETE FROM tls219_inpadoc_fam;
+DELETE FROM tls218_docdb_fam;
+DELETE FROM tls217_appln_ecla;
+DELETE FROM tls216_appln_contn;
+DELETE FROM tls215_citn_categ;
+DELETE FROM tls214_npl_publn;
+DELETE FROM tls212_citation;
+DELETE FROM tls211_pat_publn;
+DELETE FROM tls210_appln_n_cls;
+DELETE FROM tls209_appln_ipc;
+DELETE FROM tls208_doc_std_nms;
+DELETE FROM tls207_pers_appln;
+DELETE FROM tls206_person;
+DELETE FROM tls205_tech_rel;
+DELETE FROM tls204_appln_prior;
+DELETE FROM tls203_appln_abstr;
+DELETE FROM tls202_appln_title;
+DELETE FROM tls201_appln;
